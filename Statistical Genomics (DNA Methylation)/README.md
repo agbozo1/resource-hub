@@ -1,4 +1,4 @@
-# Statistical Genomics (DNA Methylation)
+# Statistical Genomics (Analysis of DNA Methylation data)
 
 :page_with_curl: **Research Papers:** 
 - Review Papers
