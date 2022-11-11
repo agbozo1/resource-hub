@@ -33,6 +33,7 @@ is a dire need to group or collate such resources in a efficient way to ease any
 
 ### **Acknowledgements**
 Thank you to all of our wonderful contributors!
+<br/>
 <a href="https://github.com/agbozo1/resource-hub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=agbozo1/resource-hub" />
 </a>
